@@ -1,0 +1,19 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "type": "SoftwareSourceCode",
+    "applicationCategory": "Information and communication ",
+    "contributor": {
+        "type": "Person",
+        "familyName": "Cameron",
+        "givenName": "James"
+    },
+    "dateCreated": "2024-04-18",
+    "description": "Test ",
+    "keywords": "test logiciel SH",
+    "license": "https://spdx.org/licenses/CC-BY-1.0",
+    "name": "Test Logiciel",
+    "operatingSystem": "Android",
+    "programmingLanguage": "Python",
+    "version": "1.0.0",
+    "developmentStatus": "inactive"
+}
